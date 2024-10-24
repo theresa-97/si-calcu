@@ -42,6 +42,7 @@ if (!!value.match(/^\d*.?\d+$/)) {
     setrate(value)
     setIsRateInputValid(true)
   }
+  
 }
 
 }
