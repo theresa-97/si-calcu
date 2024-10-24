@@ -49,7 +49,7 @@ if (!!value.match(/^\d*.?\d+$/)) {
   const handleclaculate=(e)=>{
 
     e.preventDefault()
-  setintrest((priniciple*rate*year)/100)    
+  setintrest((principle*rate*year)/100)    
   }
 
   const handleReset=()=>{
